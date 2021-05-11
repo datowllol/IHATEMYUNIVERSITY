@@ -5,6 +5,6 @@
 
 Для запуска тестов необходимо вручную изменить путь к хромдрайверу в файле Lab2tests 
 
-В моем случае конфиг был таковым: _driver = new ChromeDriver( @"C:\Users\Fedorov.toxa\Downloads\selenium-testing-master\", options);
+В моем случае конфиг был таковым: _driver = new ChromeDriver( @"C:\Users\Fedorov.toxa\Downloads\selenium\", options);
 
 Тесткейс с Добкиным магическим образом крашиться от скрола мышкой на странице about(причину установить не удалось). Если мышку не трогать, тест работает на ура
