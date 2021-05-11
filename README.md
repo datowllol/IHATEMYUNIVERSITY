@@ -1,4 +1,4 @@
-# IHATEMYUNIVERSITYIHATEC#IHATETESTINGLETMEBE
+# IHATEMYUNIVERSITYIHATEC#THANKYOUMUCHFORSMALLANOUNTOFJAVAPLACES
 
 Тесты гонялись на хроме 90.44 с использованием хромдрайвера(для удобства запихнул драйвер в репозиторий)
 Использовалась ИДЕешка Райдер 
